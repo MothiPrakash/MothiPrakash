@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Mothi Prakash! 👋
 
 ![GCP Certified](https://img.shields.io/badge/GCP-Certified-brightgreen)
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-brightgreen)
